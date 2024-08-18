@@ -1,10 +1,10 @@
 # 模版说明
 
-本模版是一个基于Quarkus的多maven模块应用程序模版，用于快速构建一个基于Quarkus的应用程序。
-jdk版本：21
-quarkus版本：3.13.2
-maven版本：3.8.4
-jandex-maven-plugin版本：3.2.1
+本模版是一个基于Quarkus的多maven模块应用程序模版，用于快速构建一个基于Quarkus的应用程序。  
+jdk版本：21  
+quarkus版本：3.13.2  
+maven版本：3.8.4  
+jandex-maven-plugin版本：3.2.1  
 
 包含两个模块：
 my-quarkus-app：主模块，用于构建应用程序
